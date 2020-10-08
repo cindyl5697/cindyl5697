@@ -55,13 +55,13 @@ a {
 }
 
 .bg-3 {
-    background-color: #ecd8e3; /* Baby Pink */
-    color: #000000; /* black color font*/
+    background-color: #000000; /* Black */
+    color: #ecd8e3; /* baby pink color font*/
 }
 
 .bg-4 {
-    background-color: #eff8fb; /* Baby Blue */
-    color: #7ab1cf;/* blue color font*/
+    background-color: #7ab1cf; /* Baby Blue */
+    color: #eff8fb;/* blue color font*/
 }
 
 .container-fluid {
