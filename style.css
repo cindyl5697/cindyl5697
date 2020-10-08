@@ -17,8 +17,8 @@ a {
 }
 
 #logo, .project-img {
-    max-height: 300px;
-    max-width: 300px;
+    max-height: 400px;
+    max-width: 400px;
 }
 
 #fork img{
@@ -42,7 +42,7 @@ a {
 
 .bg-2 {
     background-color: #000000; /* Black */
-    color: #ff76d8; /* baby pink color font*/
+    color: #ecd8e3; /* baby pink color font*/
 }
 
 .card {
