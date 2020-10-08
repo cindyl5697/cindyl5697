@@ -35,8 +35,8 @@ a {
 }
 
 .bg-1 {
-    background-color: #ffffff; /* White */
-    color: #555555;
+    background-color: #555555; /* White */
+    color: #333333;
 }
 
 .bg-2 {
@@ -59,7 +59,7 @@ a {
 }
 
 .bg-4 {
-    background-color: #343a40; /* Dark Gray */
+    background-color: #eff8fb; /* Baby Blue */
     color: #fff;
 }
 
@@ -74,8 +74,8 @@ a {
     border: 0;
     border-radius: 0;
     margin-bottom: 0;
-    font-size: 12px;
-    letter-spacing: 5px;
+    font-size: 14px;
+    letter-spacing: 6px;
 }
 
 .navbar-nav li a:hover {
