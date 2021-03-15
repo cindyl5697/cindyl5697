@@ -36,13 +36,13 @@ a {
 }
 
 .bg-1 {
-    background-color: #AA9D94; /* baby pink bp */
+    background-color: #F7EDE2; /* lighter beige */
     color: #ffc3dc;
 }
 
 .bg-2 {
-    background-color: #D2C1B3; /* Black */
-    color: #AA9D94; /* baby pink color font*/
+    background-color: #E7D7CB; /* light beige */
+    color: #EBD2BC; /* light beige2 color font*/
 }
 
 .card {
